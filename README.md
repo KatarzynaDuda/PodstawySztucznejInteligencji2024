@@ -1,1 +1,1 @@
-1# Zajęcia z PSI 2024
+# Zajęcia z PSI 2024
